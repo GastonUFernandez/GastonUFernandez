@@ -1,6 +1,6 @@
 # Hi, I'm Gastón Uriel Fernández
 
-* **QA Software Tester** at **uTest (Applause)** and **test IO (EPAM)**, specialized in high-quality bug reporting and test execution.
+* **QA Software Tester** at **uTest (Applause)** and **test IO **, specialized in high-quality bug reporting and test execution.
 * Currently studying **Technical Degree in Programming** at **Universidad Tecnológica Nacional (UTN)** - Buenos Aires (CABA).
 * Working in an **administrative role at a Healthcare Organization (Obra Social)**, managing complex data and processes.
 * Expanding my expertise in **Manual Testing** and developing automation skills with **Python**.
