@@ -2,7 +2,7 @@
 
 * **QA Software Tester** at **uTest (Applause)** and test.IO, specialized in high-quality bug reporting and test execution.
 * Currently studying **Technical Degree in Programming** at **Universidad Tecnológica Nacional (UTN)** - Buenos Aires (CABA).
-* Working in an **administrative role at a Healthcare Organization (Obra Social)**, managing complex data and processes.
+* Working in an **administrative role at a Healthcare Organization (Obra Social)**.
 * Expanding my expertise in **Manual Testing** and developing automation skills with **Python**.
 * Aiming to grow into **QA Automation** and specializing in **API Testing** with **Postman**.
 
