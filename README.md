@@ -48,6 +48,6 @@
 ## About Me
 * 🇦🇷 Based in **Buenos Aires, Argentina (CABA)**
 * 🎓 Student at **UTN Universidad Tecnológica Nacional**
-* 🗣️ Native **Spanish**, Intermediate/Advanced **English**
+* 🗣️ Native **Spanish**, Basic **English** skills
 * 🏥 Experience in **Administrative Management** within the healthcare sector
 * 💬 Always open to professional networking or QA collaboration
