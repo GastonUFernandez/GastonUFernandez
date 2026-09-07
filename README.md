@@ -32,7 +32,6 @@
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![BrowserStack](https://img.shields.io/badge/-BrowserStack-FF1F5A?style=flat-square&logo=browserstack&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
 ![TestRail](https://img.shields.io/badge/-TestRail-404040?style=flat-square&logo=testrail&logoColor=white)
