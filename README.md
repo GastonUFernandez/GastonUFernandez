@@ -43,6 +43,8 @@
 * 🏥 Experience in **Administrative Management** within the healthcare sector
 * 💬 Always open to professional networking or QA collaboration
 
+---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GastonUFernandez&show_icons=true&theme=tokyonight&hide_border=true" alt="Gastón's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GastonUFernandez&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
