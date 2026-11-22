@@ -3,7 +3,7 @@
 - 🎓 Currently studying **Technical Degree in Programming** at **Universidad Tecnológica Nacional (UTN)** — Buenos Aires (CABA).
 - 🧪 **QA Software Tester** at **uTest (Applause)** and **Test.IO**, specialized in high-quality bug reporting and test execution.
 - 🏥 Working in an administrative role at a Healthcare Organization (*Obra Social*).
-- ⚙️ Expanding my expertise in **Manual Testing** and developing automation skills with **Java** and **Python**.
+- ⚙️ Expanding my expertise in **Automation Testing** and developing automation skills with **Java** and **Python**.
 
 ---
 
