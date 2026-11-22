@@ -35,7 +35,7 @@
 
 ---
 
-## About Me
+### 📌 About Me
 * 🇦🇷 Based in **Buenos Aires, Argentina (CABA)**
 * 🎓 Student at **UTN Universidad Tecnológica Nacional**
 * 🗣️ Native **Spanish**, Basic **English** skills
