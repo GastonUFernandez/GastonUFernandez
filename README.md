@@ -14,10 +14,13 @@
 ---
 
 ### 🧠 Methodologies & Expertise
-* **Testing Lifecycle:** SDLC & STLC, Test Planning, Shift-Left Testing.
-* **Agile Frameworks:** Scrum & Kanban.
-* **Specialized Testing:** Web & Mobile QA, Non-Functional Testing, API Testing.
-* **Innovation:** AI-Driven Testing and Intelligent QA workflows.
+* Manual Testing Fundamentals and Test Design
+* Testing Strategies, Levels, and Execution
+* Defect Management and Bug Lifecycle
+* Web Inspection and Mobile Testing with DevTools
+* Technical Testing: APIs and Web Quality
+* Career Evolution: From Manual to QA Engineer
+* Capstone Project: QA Tester Core Portfolio
 
 ---
 
