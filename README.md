@@ -1,4 +1,4 @@
-# Hi, I'm Gastón Uriel Fernández 👋
+# Gastón Uriel Fernández
 
 - 🎓 Currently studying **Technical Degree in Programming** at **Universidad Tecnológica Nacional (UTN)** — Buenos Aires (CABA).
 - 🧪 **QA Software Tester** at **uTest (Applause)** and **Test.IO**, specialized in high-quality bug reporting and test execution.
